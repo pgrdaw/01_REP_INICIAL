@@ -2,8 +2,8 @@ Hola, Git!
 
 Soy PabloG. 
 
-Acabo de modificar holasoypablo.txt desde la nube github
-y he hecho público mi repositorio
-Ahora voy a añadir cambios en local desde notepad++
+Token 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
+
+Pruebas para usar GitHub
 
 Saludos.
