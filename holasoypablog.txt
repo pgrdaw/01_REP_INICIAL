@@ -4,5 +4,6 @@ Soy PabloG.
 
 Acabo de modificar holasoypablo.txt desde la nube github
 y he hecho público mi repositorio
+Ahora voy a añadir cambios en local desde notepad++
 
 Saludos.
